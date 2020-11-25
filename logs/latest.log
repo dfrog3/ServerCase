@@ -1,0 +1,41 @@
+[23:42:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:42:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:42:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:42:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:42:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:42:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:42:06] [main/INFO]: Reloading ResourceManager: Default
+[23:42:06] [Worker-Main-14/INFO]: Loaded 7 recipes
+[23:42:07] [Worker-Main-14/INFO]: Loaded 927 advancements
+[23:42:07] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[23:42:07] [Server thread/INFO]: Loading properties
+[23:42:07] [Server thread/INFO]: Default game type: SURVIVAL
+[23:42:07] [Server thread/INFO]: Generating keypair
+[23:42:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:42:07] [Server thread/INFO]: Using default channel type
+[23:42:07] [Server thread/INFO]: Preparing level "world"
+[23:42:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:42:08] [Server thread/INFO]: Preparing spawn area: 0%
+[23:42:08] [Server thread/INFO]: Preparing spawn area: 0%
+[23:42:09] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[23:42:09] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[23:42:10] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[23:42:10] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[23:42:10] [Worker-Main-11/INFO]: Preparing spawn area: 87%
+[23:42:11] [Server thread/INFO]: Time elapsed: 3381 ms
+[23:42:11] [Server thread/INFO]: Done (3.409s)! For help, type "help"
+[23:44:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:44:40] [Server thread/INFO]: ipconfig<--[HERE]
+[23:44:43] [Server thread/INFO]: Stopping the server
+[23:44:43] [Server thread/INFO]: Stopping server
+[23:44:43] [Server thread/INFO]: Saving players
+[23:44:43] [Server thread/INFO]: Saving worlds
+[23:44:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:44:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:44:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
