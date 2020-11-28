@@ -1,576 +1,80 @@
-[10:00:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:00:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:00:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:00:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:00:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:00:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:00:38] [main/INFO]: Reloading ResourceManager: Default
-[10:00:38] [Worker-Main-14/INFO]: Loaded 7 recipes
-[10:00:38] [Worker-Main-14/INFO]: Loaded 927 advancements
-[10:00:39] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[10:00:39] [Server thread/INFO]: Loading properties
-[10:00:39] [Server thread/INFO]: Default game type: SURVIVAL
-[10:00:39] [Server thread/INFO]: Generating keypair
-[10:00:39] [Server thread/INFO]: Starting Minecraft server on 192.168.10.100:25565
-[10:00:39] [Server thread/INFO]: Using default channel type
-[10:00:39] [Server thread/INFO]: Preparing level "world"
-[10:00:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:00:39] [Server thread/INFO]: Preparing spawn area: 0%
-[10:00:39] [Server thread/INFO]: Preparing spawn area: 12%
-[10:00:41] [Worker-Main-13/INFO]: Preparing spawn area: 83%
-[10:00:41] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[10:00:41] [Worker-Main-11/INFO]: Preparing spawn area: 87%
-[10:00:41] [Worker-Main-10/INFO]: Preparing spawn area: 87%
-[10:00:42] [Worker-Main-8/INFO]: Preparing spawn area: 92%
-[10:00:42] [Server thread/INFO]: Time elapsed: 3249 ms
-[10:00:42] [Server thread/INFO]: Done (3.278s)! For help, type "help"
-[10:01:10] [User Authenticator #1/INFO]: UUID of player dfrog3 is f5baa86a-1d1b-4f88-ada9-d806f91e16b0
-[10:01:10] [Server thread/INFO]: dfrog3[/192.168.10.100:57377] logged in with entity id 267 at (-161.92534288743462, 63.0, 263.3482741028476)
-[10:01:10] [Server thread/INFO]: dfrog3 joined the game
-[10:01:13] [Server thread/INFO]: dfrog3 lost connection: Disconnected
-[10:01:13] [Server thread/INFO]: dfrog3 left the game
-[10:06:04] [User Authenticator #2/INFO]: UUID of player DrSapers is ff068812-9a98-4f0d-8085-a498c6e2f56b
-[10:06:04] [Server thread/INFO]: DrSapers[/24.198.65.140:64685] logged in with entity id 283 at (-159.5, 63.0, 249.5)
-[10:06:04] [Server thread/INFO]: DrSapers joined the game
-[10:07:05] [User Authenticator #3/INFO]: UUID of player captenbuffy is 7da8e960-7991-47fb-bb9e-382608cd1530
-[10:07:05] [Server thread/INFO]: captenbuffy[/24.254.24.160:51104] logged in with entity id 434 at (-161.5, 63.0, 261.5)
-[10:07:05] [Server thread/INFO]: captenbuffy joined the game
-[10:07:09] [Server thread/INFO]: captenbuffy lost connection: Disconnected
-[10:07:09] [Server thread/INFO]: captenbuffy left the game
-[10:07:24] [Server thread/INFO]: DrSapers has made the advancement [A Seedy Place]
-[10:07:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-144, y=67, z=233} fx{x=-145, y=65, z=233}
-[10:08:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-130, y=70, z=233} fx{x=-129, y=70, z=232}
-[10:08:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-130, y=70, z=233} fx{x=-129, y=70, z=232}
-[10:08:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-130, y=70, z=233} fx{x=-129, y=70, z=232}
-[10:08:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-128, y=74, z=226} fx{x=-127, y=72, z=226}
-[10:08:21] [User Authenticator #4/INFO]: UUID of player dfrog3 is f5baa86a-1d1b-4f88-ada9-d806f91e16b0
-[10:08:22] [Server thread/INFO]: dfrog3[/192.168.10.100:57972] logged in with entity id 612 at (-161.92534288743462, 63.0, 263.3482741028476)
-[10:08:22] [Server thread/INFO]: dfrog3 joined the game
-[10:08:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-115, y=74, z=245} fx{x=-115, y=72, z=246}
-[10:08:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-115, y=74, z=245} fx{x=-115, y=72, z=246}
-[10:08:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-130, y=71, z=252} fx{x=-130, y=69, z=252}
-[10:08:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-133, y=70, z=252} fx{x=-134, y=68, z=252}
-[10:08:51] [Server thread/INFO]: DrSapers has made the advancement [Monster Hunter]
-[10:08:51] [Server thread/INFO]: DrSapers has made the advancement [Acquire Hardware]
-[10:11:00] [User Authenticator #5/INFO]: UUID of player captenbuffy is 7da8e960-7991-47fb-bb9e-382608cd1530
-[10:11:00] [Server thread/INFO]: captenbuffy[/24.254.24.160:51355] logged in with entity id 1363 at (-161.5, 63.0, 261.5)
-[10:11:00] [Server thread/INFO]: captenbuffy joined the game
-[10:11:27] [User Authenticator #6/INFO]: UUID of player M310N_ is 52688d30-5ac0-427f-a7a0-4b50aa55754a
-[10:11:27] [Server thread/INFO]: M310N_[/24.254.24.160:54773] logged in with entity id 1514 at (-162.5, 64.0, 257.5)
-[10:11:27] [Server thread/INFO]: M310N_ joined the game
-[10:11:40] [Server thread/INFO]: DrSapers has made the advancement [Isn't It Iron Pick]
-[10:11:57] [Server thread/INFO]: dfrog3 was shot by Skeleton
-[10:13:34] [Server thread/INFO]: captenbuffy has made the advancement [Monster Hunter]
-[10:13:37] [Server thread/INFO]: captenbuffy was shot by Skeleton
-[10:14:37] [Server thread/INFO]: M310N_ has made the advancement [Stone Age]
-[10:14:58] [Server thread/INFO]: M310N_ has made the advancement [Getting an Upgrade]
-[10:16:17] [Server thread/INFO]: DrSapers has made the advancement [Stone Age]
-[10:21:11] [Server thread/INFO]: captenbuffy has made the advancement [Stone Age]
-[10:21:32] [Server thread/INFO]: <captenbuffy> 6,141
-[10:23:05] [User Authenticator #7/INFO]: UUID of player NoviceGuardian is 34b2e3e9-29fb-4e62-a7a0-4f6abcb076de
-[10:23:05] [Server thread/INFO]: NoviceGuardian[/74.78.80.15:59294] logged in with entity id 4987 at (-159.5, 63.0, 252.5)
-[10:23:05] [Server thread/INFO]: NoviceGuardian joined the game
-[10:24:00] [Server thread/INFO]: DrSapers has made the advancement [Hot Stuff]
-[10:24:47] [Server thread/INFO]: captenbuffy tried to swim in lava
-[10:24:49] [Server thread/INFO]: NoviceGuardian has made the advancement [Stone Age]
-[10:25:28] [Server thread/INFO]: DrSapers has made the advancement [Suit Up]
-[10:25:30] [Server thread/INFO]: captenbuffy has made the advancement [We Need to Go Deeper]
-[10:25:36] [Server thread/INFO]: DrSapers has made the advancement [We Need to Go Deeper]
-[10:26:01] [Server thread/INFO]: dfrog3 has made the advancement [We Need to Go Deeper]
-[10:26:13] [Server thread/INFO]: dfrog3 has made the advancement [Monster Hunter]
-[10:26:23] [Server thread/INFO]: M310N_ has made the advancement [Acquire Hardware]
-[10:27:11] [Server thread/INFO]: captenbuffy tried to swim in lava
-[10:27:34] [Server thread/INFO]: M310N_ has made the advancement [Suit Up]
-[10:27:34] [Server thread/INFO]: M310N_ has made the advancement [Isn't It Iron Pick]
-[10:27:56] [Server thread/INFO]: dfrog3 has made the advancement [Getting an Upgrade]
-[10:29:00] [Server thread/INFO]: NoviceGuardian has made the advancement [Acquire Hardware]
-[10:29:26] [Server thread/INFO]: captenbuffy tried to swim in lava
-[10:29:32] [Server thread/INFO]: NoviceGuardian has made the advancement [Suit Up]
-[10:30:10] [Server thread/INFO]: M310N_ has made the advancement [Monster Hunter]
-[10:30:15] [Server thread/INFO]: captenbuffy lost connection: Disconnected
-[10:30:15] [Server thread/INFO]: captenbuffy left the game
-[10:31:25] [Server thread/INFO]: NoviceGuardian has made the advancement [Monster Hunter]
-[10:31:55] [Server thread/INFO]: <dfrog3> 230 200
-[10:33:53] [Server thread/INFO]: DrSapers has made the advancement [The Parrots and the Bats]
-[10:34:49] [User Authenticator #8/INFO]: UUID of player captenbuffy is 7da8e960-7991-47fb-bb9e-382608cd1530
-[10:34:49] [Server thread/INFO]: captenbuffy[/24.254.24.160:51735] logged in with entity id 9296 at (-5.601956103768618, 74.0, 171.30000001192093)
-[10:34:49] [Server thread/INFO]: captenbuffy joined the game
-[10:35:02] [Server thread/INFO]: M310N_ was slain by Enderman
-[10:36:00] [Server thread/INFO]: Teleported 5 entities to 408.5, 78.0, 180.5
-[10:36:26] [Server thread/INFO]: M310N_ hit the ground too hard
-[10:36:50] [Server thread/INFO]: captenbuffy fell from a high place
-[10:37:15] [Server thread/INFO]: dfrog3 has made the advancement [Stone Age]
-[10:38:05] [Server thread/INFO]: captenbuffy has made the advancement [Getting an Upgrade]
-[10:41:39] [Server thread/INFO]: captenbuffy has made the advancement [Ice Bucket Challenge]
-[10:42:40] [Server thread/INFO]: DrSapers has made the advancement [Getting an Upgrade]
-[10:43:40] [Server thread/INFO]: NoviceGuardian has made the advancement [Getting an Upgrade]
-[10:44:44] [Server thread/INFO]: M310N_ has made the advancement [Diamonds!]
-[10:49:37] [Server thread/INFO]: captenbuffy has made the advancement [Isn't It Iron Pick]
-[10:49:37] [Server thread/INFO]: captenbuffy has made the advancement [Diamonds!]
-[11:05:20] [Server thread/INFO]: NoviceGuardian has made the advancement [Isn't It Iron Pick]
-[11:05:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Coal'/17528, l='ServerLevel[world]', x=406.31, y=17.19, z=276.70]
-[11:05:45] [Server thread/INFO]: NoviceGuardian has made the advancement [Diamonds!]
-[11:07:13] [Server thread/INFO]: Villager bfj['Leatherworker'/4679, l='ServerLevel[world]', x=98.03, y=71.92, z=487.90] died, message: 'Leatherworker was slain by Zombie'
-[11:09:59] [Server thread/INFO]: NoviceGuardian burned to death
-[11:10:08] [Server thread/INFO]: DrSapers has made the advancement [Diamonds!]
-[11:13:18] [Server thread/INFO]: captenbuffy lost connection: Disconnected
-[11:13:18] [Server thread/INFO]: captenbuffy left the game
-[11:13:51] [Server thread/INFO]: Teleported 4 entities to 390.5, 78.0, 175.5
-[11:13:51] [Server thread/WARN]: dfrog3 moved too quickly! -25.13707590430255,0.0,5.451091518879679
-[11:13:51] [Server thread/WARN]: dfrog3 moved too quickly! -25.13707590430255,0.0,5.451091518879679
-[11:13:51] [Server thread/WARN]: dfrog3 moved too quickly! -25.13707590430255,0.0,5.451091518879679
-[11:13:51] [Server thread/WARN]: dfrog3 moved too quickly! -25.13707590430255,0.0,5.451091518879679
-[11:13:51] [Server thread/WARN]: dfrog3 moved too quickly! -25.13707590430255,0.0,5.451091518879679
-[11:13:51] [Server thread/WARN]: dfrog3 moved too quickly! -25.13707590430255,0.0,5.451091518879679
-[11:13:51] [Server thread/WARN]: dfrog3 moved too quickly! -25.13707590430255,0.0,5.451091518879679
-[11:13:51] [Server thread/WARN]: dfrog3 moved too quickly! -25.13707590430255,0.0,5.451091518879679
-[11:15:10] [User Authenticator #9/INFO]: UUID of player captenbuffy is 7da8e960-7991-47fb-bb9e-382608cd1530
-[11:15:10] [Server thread/INFO]: captenbuffy[/24.254.24.160:54940] logged in with entity id 23209 at (110.39491262147493, 70.0, 467.2386051779748)
-[11:15:10] [Server thread/INFO]: captenbuffy joined the game
-[11:16:27] [Server thread/INFO]: dfrog3 has made the advancement [Acquire Hardware]
-[11:16:48] [Server thread/INFO]: dfrog3 has made the advancement [Isn't It Iron Pick]
-[11:21:31] [Server thread/INFO]: dfrog3 has made the advancement [Best Friends Forever]
-[11:22:15] [Server thread/INFO]: Villager bfj['Weaponsmith'/12729, l='ServerLevel[world]', x=95.51, y=71.00, z=561.70] died, message: 'Weaponsmith was slain by Zombie'
-[11:25:30] [Server thread/INFO]: M310N_ has made the advancement [Sweet Dreams]
-[11:29:07] [Server thread/INFO]: dfrog3 has made the advancement [Hot Stuff]
-[11:33:47] [Server thread/INFO]: captenbuffy has made the advancement [Best Friends Forever]
-[11:35:42] [Server thread/INFO]: DrSapers has made the advancement [Fishy Business]
-[11:36:40] [Server thread/INFO]: dfrog3 has made the advancement [Diamonds!]
-[11:37:03] [Server thread/INFO]: DrSapers has made the advancement [Best Friends Forever]
-[11:38:37] [Server thread/INFO]: captenbuffy lost connection: Disconnected
-[11:38:37] [Server thread/INFO]: captenbuffy left the game
-[11:38:40] [User Authenticator #10/INFO]: UUID of player captenbuffy is 7da8e960-7991-47fb-bb9e-382608cd1530
-[11:38:40] [Server thread/INFO]: captenbuffy[/24.254.24.160:55116] logged in with entity id 37305 at (128.2373661638097, 64.0, 595.1458196194742)
-[11:38:40] [Server thread/INFO]: captenbuffy joined the game
-[11:39:30] [Server thread/INFO]: DrSapers lost connection: Disconnected
-[11:39:30] [Server thread/INFO]: DrSapers left the game
-[11:39:36] [Server thread/INFO]: captenbuffy lost connection: Disconnected
-[11:39:36] [Server thread/INFO]: captenbuffy left the game
-[11:39:40] [Server thread/INFO]: dfrog3 has made the advancement [Sweet Dreams]
-[11:39:41] [Server thread/INFO]: NoviceGuardian has made the advancement [Sweet Dreams]
-[11:40:01] [User Authenticator #11/INFO]: UUID of player captenbuffy is 7da8e960-7991-47fb-bb9e-382608cd1530
-[11:40:01] [Server thread/INFO]: captenbuffy[/24.254.24.160:55130] logged in with entity id 38484 at (174.30230368372327, 70.0, 576.5678370597967)
-[11:40:01] [Server thread/INFO]: captenbuffy joined the game
-[11:40:27] [User Authenticator #12/INFO]: UUID of player DrSapers is ff068812-9a98-4f0d-8085-a498c6e2f56b
-[11:40:27] [Server thread/INFO]: DrSapers[/24.198.65.140:64876] logged in with entity id 38872 at (2675.7546937740162, 79.0, -315.863366860363)
-[11:40:27] [Server thread/INFO]: DrSapers joined the game
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.26841364159756154
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.7369860766418697
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 1.210909830522354
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 1.6874408251031525
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 2.165013165191766
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.47085099721837764
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.46882353631156093
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.46547246482288074
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.46115575501175954
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.457624242690855
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.9193422533809326
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.4547234911897249
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.4541824665651859
-[11:44:57] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.4538929750754903
-[11:44:58] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.4537380739511718
-[11:44:58] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.45365518944794303
-[11:44:58] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.4536108396028169
-[11:44:58] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.4535871088849319
-[11:44:58] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.45761042390756757
-[11:44:58] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.4648843335638162
-[11:44:58] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.9399750778526084
-[11:44:58] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.4714900268842541
-[11:44:58] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.4728797269949325
-[11:44:58] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.47368048486836756
-[11:44:58] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.4659834902952298
-[11:44:58] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.8176715507972574
-[11:48:30] [Server thread/INFO]: M310N_ has made the advancement [Ice Bucket Challenge]
-[11:51:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=5213, y=68, z=103} fx{x=5214, y=66, z=103}
-[11:51:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=5213, y=68, z=103} fx{x=5214, y=66, z=103}
-[11:51:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=5212, y=68, z=64} fx{x=5212, y=66, z=66}
-[11:51:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=5212, y=68, z=64} fx{x=5212, y=66, z=66}
-[11:51:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=5212, y=68, z=64} fx{x=5212, y=66, z=66}
-[11:51:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=5210, y=68, z=63} fx{x=5209, y=66, z=65}
-[11:51:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=5210, y=68, z=63} fx{x=5209, y=66, z=65}
-[11:51:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=5208, y=68, z=64} fx{x=5208, y=66, z=66}
-[11:51:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=5209, y=68, z=66} fx{x=5208, y=66, z=67}
-[11:51:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=5209, y=68, z=66} fx{x=5208, y=66, z=67}
-[11:51:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=5203, y=69, z=67} fx{x=5202, y=67, z=68}
-[11:51:25] [Server thread/INFO]: captenbuffy has made the advancement [Sweet Dreams]
-[11:51:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[11:51:41] [Server thread/INFO]: timeset 1<--[HERE]
-[11:51:46] [Server thread/INFO]: Set the time to 1
-[11:51:52] [Server thread/INFO]: <dfrog3> eae
-[11:52:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/49824, l='ServerLevel[world]', x=328.85, y=79.00, z=167.75]
-[11:53:42] [Server thread/INFO]: captenbuffy has made the advancement [Acquire Hardware]
-[11:58:59] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 0.30993728619466765
-[11:58:59] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 0.2545534053989371
-[11:58:59] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 0.26689230978493583
-[11:58:59] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 0.2790376368310348
-[11:58:59] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 0.28960929799701773
-[11:58:59] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 0.5882615807983029
-[11:58:59] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 0.30608047409322126
-[12:02:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[12:02:35] [Server thread/INFO]: set time 1<--[HERE]
-[12:02:38] [Server thread/INFO]: Set the time to 1
-[12:03:36] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 1.5399941530362324
-[12:03:36] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 1.5642610725836525
-[12:03:36] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 1.585405693717299
-[12:03:36] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 1.6045968373094717
-[12:19:30] [Server thread/INFO]: captenbuffy lost connection: Disconnected
-[12:19:30] [Server thread/INFO]: captenbuffy left the game
-[12:19:32] [User Authenticator #13/INFO]: UUID of player captenbuffy is 7da8e960-7991-47fb-bb9e-382608cd1530
-[12:19:32] [Server thread/INFO]: captenbuffy[/24.254.24.160:55358] logged in with entity id 60974 at (1260.4328320093161, 62.07326324837338, -1145.3125)
-[12:19:32] [Server thread/INFO]: captenbuffy joined the game
-[12:20:36] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 1.3211746141314507
-[12:20:36] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 1.3553489534444907
-[12:20:36] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 1.3861058580114332
-[12:20:36] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 1.4045600014849242
-[12:21:04] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 1.2779534194424134
-[12:21:04] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 1.2779534194424134
-[12:21:04] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 1.2779534194424134
-[12:21:04] [Server thread/WARN]: Boat (vehicle of captenbuffy) moved wrongly! 1.2779534194424134
-[12:21:27] [Server thread/INFO]: Teleported M310N_ to 400.5, 78.0, 200.5
-[12:21:39] [Server thread/INFO]: captenbuffy has made the advancement [Suit Up]
-[12:22:21] [Server thread/INFO]: Seed: [-9824930256078410]
-[12:24:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=1266, y=53, z=-2067} fx{x=1265, y=52, z=-2066}
-[12:24:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=1266, y=53, z=-2067} fx{x=1265, y=52, z=-2066}
-[12:25:44] [Server thread/INFO]: Teleported DrSapers to 400.5, 78.0, 200.5
-[12:26:32] [Server thread/INFO]: NoviceGuardian lost connection: Disconnected
-[12:26:32] [Server thread/INFO]: NoviceGuardian left the game
-[12:26:35] [User Authenticator #14/INFO]: UUID of player NoviceGuardian is 34b2e3e9-29fb-4e62-a7a0-4f6abcb076de
-[12:26:35] [Server thread/INFO]: NoviceGuardian[/74.78.80.15:63387] logged in with entity id 67906 at (395.2110946775284, 78.0, 194.2777769983052)
-[12:26:35] [Server thread/INFO]: NoviceGuardian joined the game
-[12:26:41] [Server thread/INFO]: NoviceGuardian lost connection: Disconnected
-[12:26:41] [Server thread/INFO]: NoviceGuardian left the game
-[12:26:59] [Server thread/INFO]: M310N_ lost connection: Disconnected
-[12:26:59] [Server thread/INFO]: M310N_ left the game
-[12:27:00] [Server thread/WARN]: captenbuffy moved too quickly! -8.632382500577705,-0.7967356006687112,5.351080619457662
-[12:27:03] [User Authenticator #15/INFO]: UUID of player M310N_ is 52688d30-5ac0-427f-a7a0-4b50aa55754a
-[12:27:03] [Server thread/INFO]: M310N_[/24.254.24.160:56804] logged in with entity id 68502 at (517.3000000119209, 74.0, 143.05550937613907)
-[12:27:03] [Server thread/INFO]: M310N_ joined the game
-[12:27:14] [User Authenticator #16/INFO]: UUID of player NoviceGuardian is 34b2e3e9-29fb-4e62-a7a0-4f6abcb076de
-[12:27:14] [Server thread/INFO]: NoviceGuardian[/74.78.80.15:63489] logged in with entity id 68683 at (397.66967578192777, 78.0, 193.92481942032364)
-[12:27:14] [Server thread/INFO]: NoviceGuardian joined the game
-[12:27:32] [Server thread/INFO]: captenbuffy lost connection: Timed out
-[12:27:32] [Server thread/INFO]: captenbuffy left the game
-[12:27:32] [Server thread/WARN]: handleDisconnection() called twice
-[12:28:03] [User Authenticator #17/INFO]: UUID of player captenbuffy is 7da8e960-7991-47fb-bb9e-382608cd1530
-[12:28:03] [Server thread/INFO]: captenbuffy[/24.254.24.160:55426] logged in with entity id 68833 at (1002.7768171422276, 71.0, -1996.271441285841)
-[12:28:03] [Server thread/INFO]: captenbuffy joined the game
-[12:29:56] [Server thread/INFO]: Set the time to 1
-[12:37:43] [Server thread/INFO]: DrSapers lost connection: Disconnected
-[12:37:43] [Server thread/INFO]: DrSapers left the game
-[12:41:11] [Server thread/INFO]: NoviceGuardian was shot by Skeleton
-[12:41:27] [Server thread/INFO]: Set the time to 1
-[12:44:15] [Server thread/INFO]: Teleported 794 entities to 400.5, 78.0, 200.5
-[12:44:15] [Server thread/WARN]: dfrog3 moved too quickly! 13.560488610535003,-1.0,-17.538865635396718
-[12:44:15] [Server thread/WARN]: dfrog3 moved too quickly! 13.560488610535003,-1.0,-17.538865635396718
-[12:44:15] [Server thread/WARN]: dfrog3 moved too quickly! 13.560488610535003,-1.0,-17.538865635396718
-[12:44:15] [Server thread/WARN]: dfrog3 moved too quickly! 13.560488610535003,-1.0,-17.538865635396718
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/78329, l='ServerLevel[world]', x=399.45, y=78.00, z=201.56]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/78329, l='ServerLevel[world]', x=399.45, y=78.00, z=201.56]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/78329, l='ServerLevel[world]', x=399.45, y=78.00, z=201.56]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/78329, l='ServerLevel[world]', x=399.45, y=78.00, z=201.56]
-[12:44:17] [Server thread/INFO]: Villager bfj['Villager'/8568, l='ServerLevel[world]', x=401.76, y=78.00, z=199.39] died, message: 'Villager was blown up by Creeper'
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/78341, l='ServerLevel[world]', x=401.70, y=78.00, z=201.54]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/78341, l='ServerLevel[world]', x=401.70, y=78.00, z=201.54]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/78341, l='ServerLevel[world]', x=401.70, y=78.00, z=201.54]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/78341, l='ServerLevel[world]', x=401.70, y=78.00, z=201.54]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/78342, l='ServerLevel[world]', x=401.45, y=78.00, z=201.60]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/78342, l='ServerLevel[world]', x=401.45, y=78.00, z=201.60]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/78342, l='ServerLevel[world]', x=401.45, y=78.00, z=201.60]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/78342, l='ServerLevel[world]', x=401.45, y=78.00, z=201.60]
-[12:44:17] [Server thread/INFO]: NoviceGuardian was blown up by Creeper
-[12:44:17] [Server thread/INFO]: captenbuffy was blown up by Creeper
-[12:44:17] [Server thread/INFO]: Villager bfj['Villager'/113, l='ServerLevel[world]', x=401.22, y=78.38, z=202.70] died, message: 'Villager was blown up by Creeper'
-[12:44:17] [Server thread/INFO]: Villager bfj['Villager'/8278, l='ServerLevel[world]', x=400.12, y=78.61, z=201.03] died, message: 'Villager was blown up by Creeper'
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/78542, l='ServerLevel[world]', x=401.74, y=78.37, z=202.55]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/78542, l='ServerLevel[world]', x=401.74, y=78.37, z=202.55]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/78542, l='ServerLevel[world]', x=401.74, y=78.37, z=202.55]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/78542, l='ServerLevel[world]', x=401.74, y=78.37, z=202.55]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Ink Sac'/79421, l='ServerLevel[world]', x=395.69, y=78.00, z=195.71]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Ink Sac'/79421, l='ServerLevel[world]', x=395.69, y=78.00, z=195.71]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Ink Sac'/79421, l='ServerLevel[world]', x=395.69, y=78.00, z=195.71]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Ink Sac'/79421, l='ServerLevel[world]', x=395.69, y=78.00, z=195.71]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79422, l='ServerLevel[world]', x=394.74, y=78.00, z=194.16]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79422, l='ServerLevel[world]', x=394.74, y=78.00, z=194.16]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79422, l='ServerLevel[world]', x=394.74, y=78.00, z=194.16]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79422, l='ServerLevel[world]', x=394.74, y=78.00, z=194.16]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79423, l='ServerLevel[world]', x=394.74, y=78.00, z=194.16]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79423, l='ServerLevel[world]', x=394.74, y=78.00, z=194.16]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79423, l='ServerLevel[world]', x=394.74, y=78.00, z=194.16]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79423, l='ServerLevel[world]', x=394.74, y=78.00, z=194.16]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Feather'/79424, l='ServerLevel[world]', x=396.22, y=78.98, z=195.69]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Feather'/79424, l='ServerLevel[world]', x=396.22, y=78.98, z=195.69]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Feather'/79424, l='ServerLevel[world]', x=396.22, y=78.98, z=195.69]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Feather'/79424, l='ServerLevel[world]', x=396.22, y=78.98, z=195.69]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Chicken'/79425, l='ServerLevel[world]', x=396.22, y=78.98, z=195.69]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Chicken'/79425, l='ServerLevel[world]', x=396.22, y=78.98, z=195.69]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Chicken'/79425, l='ServerLevel[world]', x=396.22, y=78.98, z=195.69]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Chicken'/79425, l='ServerLevel[world]', x=396.22, y=78.98, z=195.69]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Leather'/79426, l='ServerLevel[world]', x=395.73, y=78.00, z=194.10]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Leather'/79426, l='ServerLevel[world]', x=395.73, y=78.00, z=194.10]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Leather'/79426, l='ServerLevel[world]', x=395.73, y=78.00, z=194.10]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Leather'/79426, l='ServerLevel[world]', x=395.73, y=78.00, z=194.10]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Beef'/79427, l='ServerLevel[world]', x=395.73, y=78.00, z=194.10]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Beef'/79427, l='ServerLevel[world]', x=395.73, y=78.00, z=194.10]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Beef'/79427, l='ServerLevel[world]', x=395.73, y=78.00, z=194.10]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Beef'/79427, l='ServerLevel[world]', x=395.73, y=78.00, z=194.10]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79428, l='ServerLevel[world]', x=396.58, y=78.00, z=194.20]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79428, l='ServerLevel[world]', x=396.58, y=78.00, z=194.20]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79428, l='ServerLevel[world]', x=396.58, y=78.00, z=194.20]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79428, l='ServerLevel[world]', x=396.58, y=78.00, z=194.20]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79429, l='ServerLevel[world]', x=396.58, y=78.00, z=194.20]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79429, l='ServerLevel[world]', x=396.58, y=78.00, z=194.20]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79429, l='ServerLevel[world]', x=396.58, y=78.00, z=194.20]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79429, l='ServerLevel[world]', x=396.58, y=78.00, z=194.20]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79430, l='ServerLevel[world]', x=394.41, y=78.00, z=198.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79430, l='ServerLevel[world]', x=394.41, y=78.00, z=198.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79430, l='ServerLevel[world]', x=394.41, y=78.00, z=198.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79430, l='ServerLevel[world]', x=394.41, y=78.00, z=198.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79431, l='ServerLevel[world]', x=394.41, y=78.00, z=198.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79431, l='ServerLevel[world]', x=394.41, y=78.00, z=198.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79431, l='ServerLevel[world]', x=394.41, y=78.00, z=198.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79431, l='ServerLevel[world]', x=394.41, y=78.00, z=198.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79432, l='ServerLevel[world]', x=393.49, y=78.00, z=197.13]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79432, l='ServerLevel[world]', x=393.49, y=78.00, z=197.13]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79432, l='ServerLevel[world]', x=393.49, y=78.00, z=197.13]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79432, l='ServerLevel[world]', x=393.49, y=78.00, z=197.13]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79434, l='ServerLevel[world]', x=395.23, y=78.00, z=197.67]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79434, l='ServerLevel[world]', x=395.23, y=78.00, z=197.67]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79434, l='ServerLevel[world]', x=395.23, y=78.00, z=197.67]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79434, l='ServerLevel[world]', x=395.23, y=78.00, z=197.67]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79435, l='ServerLevel[world]', x=396.42, y=78.95, z=193.67]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79435, l='ServerLevel[world]', x=396.42, y=78.95, z=193.67]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79435, l='ServerLevel[world]', x=396.42, y=78.95, z=193.67]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79435, l='ServerLevel[world]', x=396.42, y=78.95, z=193.67]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79436, l='ServerLevel[world]', x=398.28, y=78.05, z=198.83]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79436, l='ServerLevel[world]', x=398.28, y=78.05, z=198.83]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79436, l='ServerLevel[world]', x=398.28, y=78.05, z=198.83]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79436, l='ServerLevel[world]', x=398.28, y=78.05, z=198.83]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79437, l='ServerLevel[world]', x=396.86, y=78.00, z=196.99]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79437, l='ServerLevel[world]', x=396.86, y=78.00, z=196.99]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79437, l='ServerLevel[world]', x=396.86, y=78.00, z=196.99]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79437, l='ServerLevel[world]', x=396.86, y=78.00, z=196.99]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79438, l='ServerLevel[world]', x=397.45, y=79.01, z=195.91]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79438, l='ServerLevel[world]', x=397.45, y=79.01, z=195.91]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79438, l='ServerLevel[world]', x=397.45, y=79.01, z=195.91]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79438, l='ServerLevel[world]', x=397.45, y=79.01, z=195.91]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79439, l='ServerLevel[world]', x=395.32, y=78.95, z=197.09]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79439, l='ServerLevel[world]', x=395.32, y=78.95, z=197.09]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79439, l='ServerLevel[world]', x=395.32, y=78.95, z=197.09]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79439, l='ServerLevel[world]', x=395.32, y=78.95, z=197.09]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79440, l='ServerLevel[world]', x=394.63, y=78.00, z=196.27]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79440, l='ServerLevel[world]', x=394.63, y=78.00, z=196.27]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79440, l='ServerLevel[world]', x=394.63, y=78.00, z=196.27]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79440, l='ServerLevel[world]', x=394.63, y=78.00, z=196.27]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79441, l='ServerLevel[world]', x=395.46, y=78.00, z=196.59]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79441, l='ServerLevel[world]', x=395.46, y=78.00, z=196.59]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79441, l='ServerLevel[world]', x=395.46, y=78.00, z=196.59]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79441, l='ServerLevel[world]', x=395.46, y=78.00, z=196.59]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79444, l='ServerLevel[world]', x=396.97, y=78.00, z=195.70]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79444, l='ServerLevel[world]', x=396.97, y=78.00, z=195.70]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79444, l='ServerLevel[world]', x=396.97, y=78.00, z=195.70]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79444, l='ServerLevel[world]', x=396.97, y=78.00, z=195.70]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79445, l='ServerLevel[world]', x=396.77, y=78.00, z=196.77]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79445, l='ServerLevel[world]', x=396.77, y=78.00, z=196.77]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79445, l='ServerLevel[world]', x=396.77, y=78.00, z=196.77]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79445, l='ServerLevel[world]', x=396.77, y=78.00, z=196.77]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79446, l='ServerLevel[world]', x=396.77, y=78.00, z=196.77]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79446, l='ServerLevel[world]', x=396.77, y=78.00, z=196.77]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79446, l='ServerLevel[world]', x=396.77, y=78.00, z=196.77]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79446, l='ServerLevel[world]', x=396.77, y=78.00, z=196.77]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79447, l='ServerLevel[world]', x=395.61, y=78.83, z=197.92]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79447, l='ServerLevel[world]', x=395.61, y=78.83, z=197.92]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79447, l='ServerLevel[world]', x=395.61, y=78.83, z=197.92]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79447, l='ServerLevel[world]', x=395.61, y=78.83, z=197.92]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79448, l='ServerLevel[world]', x=396.01, y=78.95, z=195.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79448, l='ServerLevel[world]', x=396.01, y=78.95, z=195.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79448, l='ServerLevel[world]', x=396.01, y=78.95, z=195.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79448, l='ServerLevel[world]', x=396.01, y=78.95, z=195.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79449, l='ServerLevel[world]', x=396.01, y=78.95, z=195.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79449, l='ServerLevel[world]', x=396.01, y=78.95, z=195.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79449, l='ServerLevel[world]', x=396.01, y=78.95, z=195.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79449, l='ServerLevel[world]', x=396.01, y=78.95, z=195.11]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79450, l='ServerLevel[world]', x=396.25, y=78.00, z=195.53]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79450, l='ServerLevel[world]', x=396.25, y=78.00, z=195.53]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79450, l='ServerLevel[world]', x=396.25, y=78.00, z=195.53]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79450, l='ServerLevel[world]', x=396.25, y=78.00, z=195.53]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79451, l='ServerLevel[world]', x=396.25, y=78.00, z=195.53]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79451, l='ServerLevel[world]', x=396.25, y=78.00, z=195.53]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79451, l='ServerLevel[world]', x=396.25, y=78.00, z=195.53]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79451, l='ServerLevel[world]', x=396.25, y=78.00, z=195.53]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79452, l='ServerLevel[world]', x=396.43, y=78.00, z=194.40]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79452, l='ServerLevel[world]', x=396.43, y=78.00, z=194.40]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79452, l='ServerLevel[world]', x=396.43, y=78.00, z=194.40]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79452, l='ServerLevel[world]', x=396.43, y=78.00, z=194.40]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79455, l='ServerLevel[world]', x=395.58, y=78.00, z=195.96]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79455, l='ServerLevel[world]', x=395.58, y=78.00, z=195.96]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79455, l='ServerLevel[world]', x=395.58, y=78.00, z=195.96]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79455, l='ServerLevel[world]', x=395.58, y=78.00, z=195.96]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79456, l='ServerLevel[world]', x=395.58, y=78.00, z=195.96]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79456, l='ServerLevel[world]', x=395.58, y=78.00, z=195.96]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79456, l='ServerLevel[world]', x=395.58, y=78.00, z=195.96]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79456, l='ServerLevel[world]', x=395.58, y=78.00, z=195.96]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79459, l='ServerLevel[world]', x=396.31, y=78.00, z=196.68]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79459, l='ServerLevel[world]', x=396.31, y=78.00, z=196.68]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79459, l='ServerLevel[world]', x=396.31, y=78.00, z=196.68]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Wool'/79459, l='ServerLevel[world]', x=396.31, y=78.00, z=196.68]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79460, l='ServerLevel[world]', x=396.31, y=78.00, z=196.68]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79460, l='ServerLevel[world]', x=396.31, y=78.00, z=196.68]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79460, l='ServerLevel[world]', x=396.31, y=78.00, z=196.68]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Mutton'/79460, l='ServerLevel[world]', x=396.31, y=78.00, z=196.68]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Leather'/79461, l='ServerLevel[world]', x=397.62, y=79.05, z=194.57]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Leather'/79461, l='ServerLevel[world]', x=397.62, y=79.05, z=194.57]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Leather'/79461, l='ServerLevel[world]', x=397.62, y=79.05, z=194.57]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Leather'/79461, l='ServerLevel[world]', x=397.62, y=79.05, z=194.57]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['String'/79462, l='ServerLevel[world]', x=397.34, y=78.17, z=194.33]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['String'/79462, l='ServerLevel[world]', x=397.34, y=78.17, z=194.33]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['String'/79462, l='ServerLevel[world]', x=397.34, y=78.17, z=194.33]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['String'/79462, l='ServerLevel[world]', x=397.34, y=78.17, z=194.33]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79463, l='ServerLevel[world]', x=396.73, y=79.11, z=195.24]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79463, l='ServerLevel[world]', x=396.73, y=79.11, z=195.24]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79463, l='ServerLevel[world]', x=396.73, y=79.11, z=195.24]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79463, l='ServerLevel[world]', x=396.73, y=79.11, z=195.24]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Rotten Flesh'/79464, l='ServerLevel[world]', x=397.53, y=79.88, z=197.07]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Rotten Flesh'/79464, l='ServerLevel[world]', x=397.53, y=79.88, z=197.07]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Rotten Flesh'/79464, l='ServerLevel[world]', x=397.53, y=79.88, z=197.07]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Rotten Flesh'/79464, l='ServerLevel[world]', x=397.53, y=79.88, z=197.07]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79465, l='ServerLevel[world]', x=396.46, y=79.00, z=197.36]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79465, l='ServerLevel[world]', x=396.46, y=79.00, z=197.36]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79465, l='ServerLevel[world]', x=396.46, y=79.00, z=197.36]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79465, l='ServerLevel[world]', x=396.46, y=79.00, z=197.36]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79466, l='ServerLevel[world]', x=396.64, y=79.00, z=197.73]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79466, l='ServerLevel[world]', x=396.64, y=79.00, z=197.73]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79466, l='ServerLevel[world]', x=396.64, y=79.00, z=197.73]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Raw Porkchop'/79466, l='ServerLevel[world]', x=396.64, y=79.00, z=197.73]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['String'/79468, l='ServerLevel[world]', x=396.92, y=78.88, z=198.96]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['String'/79468, l='ServerLevel[world]', x=396.92, y=78.88, z=198.96]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['String'/79468, l='ServerLevel[world]', x=396.92, y=78.88, z=198.96]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['String'/79468, l='ServerLevel[world]', x=396.92, y=78.88, z=198.96]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79469, l='ServerLevel[world]', x=397.21, y=79.38, z=196.84]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79469, l='ServerLevel[world]', x=397.21, y=79.38, z=196.84]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79469, l='ServerLevel[world]', x=397.21, y=79.38, z=196.84]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/79469, l='ServerLevel[world]', x=397.21, y=79.38, z=196.84]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79470, l='ServerLevel[world]', x=397.51, y=79.44, z=196.60]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79470, l='ServerLevel[world]', x=397.51, y=79.44, z=196.60]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79470, l='ServerLevel[world]', x=397.51, y=79.44, z=196.60]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/79470, l='ServerLevel[world]', x=397.51, y=79.44, z=196.60]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79471, l='ServerLevel[world]', x=398.53, y=78.10, z=196.56]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79471, l='ServerLevel[world]', x=398.53, y=78.10, z=196.56]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79471, l='ServerLevel[world]', x=398.53, y=78.10, z=196.56]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/79471, l='ServerLevel[world]', x=398.53, y=78.10, z=196.56]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Rotten Flesh'/79478, l='ServerLevel[world]', x=398.97, y=78.54, z=198.17]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Rotten Flesh'/79478, l='ServerLevel[world]', x=398.97, y=78.54, z=198.17]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Rotten Flesh'/79478, l='ServerLevel[world]', x=398.97, y=78.54, z=198.17]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Rotten Flesh'/79478, l='ServerLevel[world]', x=398.97, y=78.54, z=198.17]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Jungle Sapling'/79480, l='ServerLevel[world]', x=398.70, y=78.52, z=195.52]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Jungle Sapling'/79480, l='ServerLevel[world]', x=398.70, y=78.52, z=195.52]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Jungle Sapling'/79480, l='ServerLevel[world]', x=398.70, y=78.52, z=195.52]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Jungle Sapling'/79480, l='ServerLevel[world]', x=398.70, y=78.52, z=195.52]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/79481, l='ServerLevel[world]', x=397.63, y=76.56, z=196.28]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/79481, l='ServerLevel[world]', x=397.63, y=76.56, z=196.28]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/79481, l='ServerLevel[world]', x=397.63, y=76.56, z=196.28]
-[12:44:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/79481, l='ServerLevel[world]', x=397.63, y=76.56, z=196.28]
-[12:44:17] [Server thread/INFO]: dfrog3 was slain by Zombie
-[12:44:19] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "?" is null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$a.a(SourceFile:56) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) ~[server.jar:?]
-	at aof.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
-	at aob.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aob.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
-	at java.lang.Thread.run(Thread.java:832) [?:?]
-[12:44:19] [Server thread/WARN]: NoviceGuardian moved wrongly!
-[12:44:19] [Server thread/INFO]: M310N_ was slain by Zombie
-[12:44:22] [Server thread/WARN]: NoviceGuardian was kicked for floating too long!
-[12:44:22] [Server thread/INFO]: NoviceGuardian lost connection: Flying is not enabled on this server
-[12:44:22] [Server thread/INFO]: NoviceGuardian left the game
-[12:44:28] [Server thread/WARN]: Wrong location! (26, 12) should be (13, 8), bac['Chicken'/79721, l='ServerLevel[world]', x=429.94, y=78.00, z=195.20]
-[12:44:28] [Server thread/WARN]: Wrong location! (26, 12) should be (13, 9), bac['Chicken'/79722, l='ServerLevel[world]', x=427.36, y=78.00, z=195.92]
-[12:44:28] [Server thread/INFO]: Villager bfj['Cartographer'/211, l='ServerLevel[world]', x=402.70, y=77.00, z=200.30] died, message: 'Cartographer was slain by Zombie'
-[12:44:35] [Server thread/INFO]: dfrog3 lost connection: Disconnected
-[12:44:35] [Server thread/INFO]: dfrog3 left the game
-[12:44:37] [Server thread/INFO]: captenbuffy lost connection: Disconnected
-[12:44:37] [Server thread/INFO]: captenbuffy left the game
-[12:44:37] [Server thread/INFO]: M310N_ lost connection: Disconnected
-[12:44:37] [Server thread/INFO]: M310N_ left the game
-[12:44:38] [User Authenticator #18/INFO]: UUID of player NoviceGuardian is 34b2e3e9-29fb-4e62-a7a0-4f6abcb076de
-[12:44:38] [Server thread/INFO]: NoviceGuardian[/74.78.80.15:64190] logged in with entity id 79868 at (397.0690198721937, 79.31908616679615, 191.90794012808843)
-[12:44:38] [Server thread/INFO]: NoviceGuardian joined the game
-[12:44:43] [Server thread/INFO]: No entity was found
-[12:44:52] [Server thread/INFO]: Villager bfj['Villager'/80203, l='ServerLevel[world]', x=401.21, y=77.00, z=196.25] died, message: 'Villager fell out of the world'
-[12:44:52] [Server thread/INFO]: Villager bfj['Farmer'/80253, l='ServerLevel[world]', x=392.98, y=78.00, z=188.06] died, message: 'Farmer fell out of the world'
-[12:44:52] [Server thread/INFO]: Villager bfj['Cleric'/80275, l='ServerLevel[world]', x=421.38, y=78.00, z=161.38] died, message: 'Cleric fell out of the world'
-[12:44:52] [Server thread/INFO]: Villager bfj['Villager'/80330, l='ServerLevel[world]', x=384.44, y=78.00, z=201.24] died, message: 'Villager fell out of the world'
-[12:44:52] [Server thread/INFO]: Villager bfj['Cleric'/80334, l='ServerLevel[world]', x=355.51, y=78.00, z=205.51] died, message: 'Cleric fell out of the world'
-[12:44:52] [Server thread/INFO]: Villager bfj['Farmer'/80355, l='ServerLevel[world]', x=342.62, y=79.00, z=172.35] died, message: 'Farmer fell out of the world'
-[12:44:52] [Server thread/INFO]: Villager bfj['Farmer'/80358, l='ServerLevel[world]', x=352.45, y=86.00, z=221.25] died, message: 'Farmer fell out of the world'
-[12:44:52] [Server thread/INFO]: Villager bfj['Farmer'/80359, l='ServerLevel[world]', x=350.48, y=79.00, z=207.48] died, message: 'Farmer fell out of the world'
-[12:44:52] [Server thread/INFO]: Villager bfj['Farmer'/80363, l='ServerLevel[world]', x=419.82, y=78.00, z=143.51] died, message: 'Farmer fell out of the world'
-[12:44:52] [Server thread/INFO]: Villager bfj['Farmer'/80367, l='ServerLevel[world]', x=447.23, y=81.00, z=156.64] died, message: 'Farmer fell out of the world'
-[12:44:52] [Server thread/INFO]: Villager bfj['Nitwit'/80368, l='ServerLevel[world]', x=416.59, y=78.00, z=142.69] died, message: 'Nitwit fell out of the world'
-[12:44:52] [Server thread/INFO]: Villager bfj['Farmer'/80376, l='ServerLevel[world]', x=441.47, y=78.00, z=160.27] died, message: 'Farmer fell out of the world'
-[12:44:52] [Server thread/INFO]: NoviceGuardian fell out of the world
-[12:44:52] [Server thread/INFO]: Killed 596 entities
-[12:44:54] [User Authenticator #19/INFO]: UUID of player M310N_ is 52688d30-5ac0-427f-a7a0-4b50aa55754a
-[12:44:54] [Server thread/INFO]: M310N_[/24.254.24.160:57065] logged in with entity id 80680 at (406.68168182620155, 78.0, 189.0530533052217)
-[12:44:54] [Server thread/INFO]: M310N_ joined the game
-[12:44:57] [User Authenticator #20/INFO]: UUID of player captenbuffy is 7da8e960-7991-47fb-bb9e-382608cd1530
-[12:44:57] [Server thread/INFO]: captenbuffy[/24.254.24.160:55553] logged in with entity id 80784 at (403.1320184539117, 78.0, 169.42164398666915)
-[12:44:57] [Server thread/INFO]: captenbuffy joined the game
-[12:45:02] [User Authenticator #21/INFO]: UUID of player dfrog3 is f5baa86a-1d1b-4f88-ada9-d806f91e16b0
-[12:45:02] [Server thread/INFO]: dfrog3[/192.168.10.100:49927] logged in with entity id 80804 at (399.4021709140752, 78.0, 146.10677904499119)
-[12:45:02] [Server thread/INFO]: dfrog3 joined the game
-[12:45:58] [Server thread/INFO]: Gave 20 [Diamond] to NoviceGuardian
-[12:46:17] [Server thread/WARN]: Wrong location! (25, 11) should be (16, 24), baz['Wolf'/80966, l='ServerLevel[world]', x=403.97, y=78.00, z=189.06]
-[12:46:17] [Server thread/WARN]: Wrong location! (24, 11) should be (16, 24), baz['Wolf'/80967, l='ServerLevel[world]', x=386.51, y=78.00, z=181.59]
-[12:46:17] [Server thread/WARN]: Wrong location! (24, 12) should be (16, 24), baz['Wolf'/80968, l='ServerLevel[world]', x=387.97, y=78.00, z=198.83]
-[12:46:27] [Server thread/INFO]: Unknown selector type '@ '
-[12:46:27] [Server thread/INFO]: give @ spawn_egg_horse<--[HERE]
-[12:47:05] [Server thread/INFO]: A player is required to run this command here
-[12:47:15] [Server thread/INFO]: Incorrect argument for command
-[12:47:15] [Server thread/INFO]: gamemode @p creative<--[HERE]
-[12:47:27] [Server thread/INFO]: Incorrect argument for command
-[12:47:27] [Server thread/INFO]: gamemode dfrog3 creative<--[HERE]
-[12:47:43] [Server thread/INFO]: Set dfrog3's game mode to Creative Mode
-[12:53:56] [Server thread/INFO]: Set dfrog3's game mode to Survival Mode
-[12:53:57] [Server thread/INFO]: M310N_ has made the advancement [Cover Me With Diamonds]
-[12:54:08] [Server thread/INFO]: M310N_ has made the advancement [Enchanter]
-[12:55:48] [Server thread/INFO]: Gave 128 [Coal] to dfrog3
-[13:02:33] [Server thread/INFO]: dfrog3 lost connection: Disconnected
-[13:02:33] [Server thread/INFO]: dfrog3 left the game
-[13:02:33] [Server thread/INFO]: NoviceGuardian lost connection: Disconnected
-[13:02:33] [Server thread/INFO]: NoviceGuardian left the game
-[13:02:36] [Server thread/INFO]: captenbuffy lost connection: Disconnected
-[13:02:36] [Server thread/INFO]: captenbuffy left the game
-[13:02:38] [Server thread/INFO]: M310N_ lost connection: Disconnected
-[13:02:38] [Server thread/INFO]: M310N_ left the game
-[13:02:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[13:02:45] [Server thread/INFO]: save<--[HERE]
-[13:03:13] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:03:13] [Server thread/INFO]: Saved the game
-[13:03:17] [Server thread/INFO]: Stopping the server
-[13:03:17] [Server thread/INFO]: Stopping server
-[13:03:17] [Server thread/INFO]: Saving players
-[13:03:17] [Server thread/INFO]: Saving worlds
-[13:03:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:03:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:03:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:03:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:03:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:03:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:03:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:03:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:03:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:04:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:04:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:04:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:04:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:04:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:04:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:04:46] [main/INFO]: Reloading ResourceManager: Default
+[13:04:46] [Worker-Main-14/INFO]: Loaded 7 recipes
+[13:04:47] [Worker-Main-14/INFO]: Loaded 927 advancements
+[13:04:47] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[13:04:47] [Server thread/INFO]: Loading properties
+[13:04:47] [Server thread/INFO]: Default game type: SURVIVAL
+[13:04:47] [Server thread/INFO]: Generating keypair
+[13:04:47] [Server thread/INFO]: Starting Minecraft server on 192.168.10.100:25565
+[13:04:47] [Server thread/INFO]: Using default channel type
+[13:04:47] [Server thread/INFO]: Preparing level "world"
+[13:04:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:04:48] [Server thread/INFO]: Preparing spawn area: 0%
+[13:04:48] [Server thread/INFO]: Preparing spawn area: 0%
+[13:04:48] [Server thread/INFO]: Time elapsed: 758 ms
+[13:04:48] [Server thread/INFO]: Done (0.788s)! For help, type "help"
+[13:04:53] [User Authenticator #1/INFO]: UUID of player dfrog3 is f5baa86a-1d1b-4f88-ada9-d806f91e16b0
+[13:04:53] [Server thread/INFO]: dfrog3[/192.168.10.100:51354] logged in with entity id 1 at (389.14365176192416, 81.5, 230.60612702574218)
+[13:04:53] [Server thread/INFO]: dfrog3 joined the game
+[13:05:04] [User Authenticator #2/INFO]: UUID of player captenbuffy is 7da8e960-7991-47fb-bb9e-382608cd1530
+[13:05:04] [Server thread/INFO]: captenbuffy[/24.254.24.160:56109] logged in with entity id 183 at (388.56281825504135, 80.5, 223.8994602880688)
+[13:05:04] [Server thread/INFO]: captenbuffy joined the game
+[13:09:32] [User Authenticator #3/INFO]: UUID of player M310N_ is 52688d30-5ac0-427f-a7a0-4b50aa55754a
+[13:09:32] [Server thread/INFO]: M310N_[/24.254.24.160:57350] logged in with entity id 828 at (387.71158854941507, 26.0, 243.84008745920357)
+[13:09:32] [Server thread/INFO]: M310N_ joined the game
+[13:13:27] [Server thread/INFO]: dfrog3 was slain by Zombie
+[13:13:54] [Server thread/INFO]: Set the time to 1
+[13:14:50] [User Authenticator #4/INFO]: UUID of player NoviceGuardian is 34b2e3e9-29fb-4e62-a7a0-4f6abcb076de
+[13:14:50] [Server thread/INFO]: NoviceGuardian[/74.78.80.15:65485] logged in with entity id 1624 at (397.29054863183933, 78.0, 157.84335105003274)
+[13:14:50] [Server thread/INFO]: NoviceGuardian joined the game
+[13:16:15] [Server thread/INFO]: captenbuffy has made the advancement [Fishy Business]
+[13:16:24] [Server thread/INFO]: <M310N_> hi
+[13:37:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Oak Leaves'/3193, l='ServerLevel[world]', x=511.30, y=76.00, z=143.92]
+[13:38:00] [Server thread/INFO]: Villager bfj['Villager'/142, l='ServerLevel[world]', x=518.86, y=66.00, z=171.66] died, message: 'Villager was slain by Zombie'
+[13:39:36] [Server thread/INFO]: Set the time to 1
+[13:41:06] [Server thread/INFO]: Villager bfj['Villager'/132, l='ServerLevel[world]', x=523.60, y=64.00, z=161.74] died, message: 'Villager was slain by Zombie'
+[13:44:57] [Server thread/INFO]: captenbuffy has made the advancement [Enchanter]
+[13:49:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/5896, l='ServerLevel[world]', x=460.54, y=76.00, z=148.79]
+[13:53:04] [Server thread/INFO]: Teleported captenbuffy to 400.5, 78.0, 200.5
+[13:53:31] [Server thread/INFO]: captenbuffy was slain by Zombie
+[14:04:23] [Server thread/INFO]: <dfrog3> 35435435465 3543541
+[14:05:40] [Server thread/INFO]: Teleported captenbuffy to 35737.5, 100.0, 5743.5
+[14:05:42] [Server thread/WARN]: captenbuffy moved too quickly! 0.0,-10.806526110008988,0.0
+[14:06:20] [Server thread/INFO]: M310N_ lost connection: Disconnected
+[14:06:20] [Server thread/INFO]: M310N_ left the game
+[14:07:37] [Server thread/INFO]: dfrog3 has made the advancement [A Seedy Place]
+[14:08:11] [Server thread/INFO]: <captenbuffy> woah
+[14:08:14] [Server thread/INFO]: <captenbuffy> hey changed dogs
+[14:08:17] [Server thread/INFO]: <captenbuffy> they
+[14:08:37] [Server thread/INFO]: <captenbuffy> minecraft dogs are scary now
+[14:09:01] [Server thread/INFO]: captenbuffy was slain by Polar Bear
+[14:09:14] [Server thread/INFO]: <captenbuffy> oops
+[14:09:33] [Server thread/INFO]: <captenbuffy> i think i have to go
+[14:09:38] [Server thread/INFO]: <captenbuffy> bye
+[14:09:39] [Server thread/INFO]: captenbuffy lost connection: Disconnected
+[14:09:39] [Server thread/INFO]: captenbuffy left the game
+[14:09:51] [Server thread/INFO]: dfrog3 lost connection: Disconnected
+[14:09:51] [Server thread/INFO]: dfrog3 left the game
+[14:09:53] [Server thread/INFO]: NoviceGuardian lost connection: Disconnected
+[14:09:53] [Server thread/INFO]: NoviceGuardian left the game
+[14:10:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[14:10:00] [Server thread/INFO]: Saved the game
+[14:10:04] [Server thread/INFO]: Stopping the server
+[14:10:04] [Server thread/INFO]: Stopping server
+[14:10:04] [Server thread/INFO]: Saving players
+[14:10:04] [Server thread/INFO]: Saving worlds
+[14:10:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:10:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:10:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
