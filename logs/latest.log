@@ -1,80 +1,97 @@
-[13:04:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:04:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:04:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:04:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:04:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:04:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:04:46] [main/INFO]: Reloading ResourceManager: Default
-[13:04:46] [Worker-Main-14/INFO]: Loaded 7 recipes
-[13:04:47] [Worker-Main-14/INFO]: Loaded 927 advancements
-[13:04:47] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[13:04:47] [Server thread/INFO]: Loading properties
-[13:04:47] [Server thread/INFO]: Default game type: SURVIVAL
-[13:04:47] [Server thread/INFO]: Generating keypair
-[13:04:47] [Server thread/INFO]: Starting Minecraft server on 192.168.10.100:25565
-[13:04:47] [Server thread/INFO]: Using default channel type
-[13:04:47] [Server thread/INFO]: Preparing level "world"
-[13:04:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:04:48] [Server thread/INFO]: Preparing spawn area: 0%
-[13:04:48] [Server thread/INFO]: Preparing spawn area: 0%
-[13:04:48] [Server thread/INFO]: Time elapsed: 758 ms
-[13:04:48] [Server thread/INFO]: Done (0.788s)! For help, type "help"
-[13:04:53] [User Authenticator #1/INFO]: UUID of player dfrog3 is f5baa86a-1d1b-4f88-ada9-d806f91e16b0
-[13:04:53] [Server thread/INFO]: dfrog3[/192.168.10.100:51354] logged in with entity id 1 at (389.14365176192416, 81.5, 230.60612702574218)
-[13:04:53] [Server thread/INFO]: dfrog3 joined the game
-[13:05:04] [User Authenticator #2/INFO]: UUID of player captenbuffy is 7da8e960-7991-47fb-bb9e-382608cd1530
-[13:05:04] [Server thread/INFO]: captenbuffy[/24.254.24.160:56109] logged in with entity id 183 at (388.56281825504135, 80.5, 223.8994602880688)
-[13:05:04] [Server thread/INFO]: captenbuffy joined the game
-[13:09:32] [User Authenticator #3/INFO]: UUID of player M310N_ is 52688d30-5ac0-427f-a7a0-4b50aa55754a
-[13:09:32] [Server thread/INFO]: M310N_[/24.254.24.160:57350] logged in with entity id 828 at (387.71158854941507, 26.0, 243.84008745920357)
-[13:09:32] [Server thread/INFO]: M310N_ joined the game
-[13:13:27] [Server thread/INFO]: dfrog3 was slain by Zombie
-[13:13:54] [Server thread/INFO]: Set the time to 1
-[13:14:50] [User Authenticator #4/INFO]: UUID of player NoviceGuardian is 34b2e3e9-29fb-4e62-a7a0-4f6abcb076de
-[13:14:50] [Server thread/INFO]: NoviceGuardian[/74.78.80.15:65485] logged in with entity id 1624 at (397.29054863183933, 78.0, 157.84335105003274)
-[13:14:50] [Server thread/INFO]: NoviceGuardian joined the game
-[13:16:15] [Server thread/INFO]: captenbuffy has made the advancement [Fishy Business]
-[13:16:24] [Server thread/INFO]: <M310N_> hi
-[13:37:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Oak Leaves'/3193, l='ServerLevel[world]', x=511.30, y=76.00, z=143.92]
-[13:38:00] [Server thread/INFO]: Villager bfj['Villager'/142, l='ServerLevel[world]', x=518.86, y=66.00, z=171.66] died, message: 'Villager was slain by Zombie'
-[13:39:36] [Server thread/INFO]: Set the time to 1
-[13:41:06] [Server thread/INFO]: Villager bfj['Villager'/132, l='ServerLevel[world]', x=523.60, y=64.00, z=161.74] died, message: 'Villager was slain by Zombie'
-[13:44:57] [Server thread/INFO]: captenbuffy has made the advancement [Enchanter]
-[13:49:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/5896, l='ServerLevel[world]', x=460.54, y=76.00, z=148.79]
-[13:53:04] [Server thread/INFO]: Teleported captenbuffy to 400.5, 78.0, 200.5
-[13:53:31] [Server thread/INFO]: captenbuffy was slain by Zombie
-[14:04:23] [Server thread/INFO]: <dfrog3> 35435435465 3543541
-[14:05:40] [Server thread/INFO]: Teleported captenbuffy to 35737.5, 100.0, 5743.5
-[14:05:42] [Server thread/WARN]: captenbuffy moved too quickly! 0.0,-10.806526110008988,0.0
-[14:06:20] [Server thread/INFO]: M310N_ lost connection: Disconnected
-[14:06:20] [Server thread/INFO]: M310N_ left the game
-[14:07:37] [Server thread/INFO]: dfrog3 has made the advancement [A Seedy Place]
-[14:08:11] [Server thread/INFO]: <captenbuffy> woah
-[14:08:14] [Server thread/INFO]: <captenbuffy> hey changed dogs
-[14:08:17] [Server thread/INFO]: <captenbuffy> they
-[14:08:37] [Server thread/INFO]: <captenbuffy> minecraft dogs are scary now
-[14:09:01] [Server thread/INFO]: captenbuffy was slain by Polar Bear
-[14:09:14] [Server thread/INFO]: <captenbuffy> oops
-[14:09:33] [Server thread/INFO]: <captenbuffy> i think i have to go
-[14:09:38] [Server thread/INFO]: <captenbuffy> bye
-[14:09:39] [Server thread/INFO]: captenbuffy lost connection: Disconnected
-[14:09:39] [Server thread/INFO]: captenbuffy left the game
-[14:09:51] [Server thread/INFO]: dfrog3 lost connection: Disconnected
-[14:09:51] [Server thread/INFO]: dfrog3 left the game
-[14:09:53] [Server thread/INFO]: NoviceGuardian lost connection: Disconnected
-[14:09:53] [Server thread/INFO]: NoviceGuardian left the game
-[14:10:00] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:10:00] [Server thread/INFO]: Saved the game
-[14:10:04] [Server thread/INFO]: Stopping the server
-[14:10:04] [Server thread/INFO]: Stopping server
-[14:10:04] [Server thread/INFO]: Saving players
-[14:10:04] [Server thread/INFO]: Saving worlds
-[14:10:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:10:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:10:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:09:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:09:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:09:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:09:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:09:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:09:56] [main/INFO]: Reloading ResourceManager: Default
+[10:09:56] [Worker-Main-14/INFO]: Loaded 7 recipes
+[10:09:56] [Worker-Main-14/INFO]: Loaded 927 advancements
+[10:09:57] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[10:09:57] [Server thread/INFO]: Loading properties
+[10:09:57] [Server thread/INFO]: Default game type: SURVIVAL
+[10:09:57] [Server thread/INFO]: Generating keypair
+[10:09:57] [Server thread/INFO]: Starting Minecraft server on 192.168.10.100:25565
+[10:09:57] [Server thread/INFO]: Using default channel type
+[10:09:57] [Server thread/INFO]: Preparing level "world"
+[10:09:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:09:58] [Server thread/INFO]: Preparing spawn area: 0%
+[10:09:58] [Server thread/INFO]: Preparing spawn area: 0%
+[10:09:58] [Server thread/INFO]: Time elapsed: 742 ms
+[10:09:58] [Server thread/INFO]: Done (0.775s)! For help, type "help"
+[10:11:23] [User Authenticator #1/INFO]: UUID of player captenbuffy is 7da8e960-7991-47fb-bb9e-382608cd1530
+[10:11:23] [Server thread/INFO]: captenbuffy[/24.254.24.160:65088] logged in with entity id 1 at (400.45612156939166, 78.0, 161.80744455007968)
+[10:11:23] [Server thread/INFO]: captenbuffy joined the game
+[10:14:22] [User Authenticator #2/INFO]: UUID of player dfrog3 is f5baa86a-1d1b-4f88-ada9-d806f91e16b0
+[10:14:22] [Server thread/INFO]: dfrog3[/192.168.10.100:63179] logged in with entity id 531 at (399.8222398175184, 78.0, 159.5485710944663)
+[10:14:22] [Server thread/INFO]: dfrog3 joined the game
+[10:14:22] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/525, l='ServerLevel[world]', x=455.19, y=72.72, z=142.00]
+[10:27:07] [Server thread/INFO]: dfrog3 lost connection: Disconnected
+[10:27:07] [Server thread/INFO]: dfrog3 left the game
+[10:27:09] [User Authenticator #3/INFO]: UUID of player dfrog3 is f5baa86a-1d1b-4f88-ada9-d806f91e16b0
+[10:27:09] [Server thread/INFO]: dfrog3[/192.168.10.100:64004] logged in with entity id 2892 at (409.5, 78.0, 169.5)
+[10:27:09] [Server thread/INFO]: dfrog3 joined the game
+[10:27:21] [Server thread/INFO]: dfrog3 lost connection: Disconnected
+[10:27:21] [Server thread/INFO]: dfrog3 left the game
+[10:28:15] [User Authenticator #4/INFO]: UUID of player dfrog3 is f5baa86a-1d1b-4f88-ada9-d806f91e16b0
+[10:28:15] [Server thread/INFO]: dfrog3[/192.168.10.100:64181] logged in with entity id 3015 at (409.5, 78.0, 169.5)
+[10:28:15] [Server thread/INFO]: dfrog3 joined the game
+[10:45:17] [User Authenticator #5/INFO]: UUID of player M310N_ is 52688d30-5ac0-427f-a7a0-4b50aa55754a
+[10:45:17] [Server thread/INFO]: M310N_[/24.254.24.160:62171] logged in with entity id 9991 at (457.94487506238846, 67.0, 164.1644562131531)
+[10:45:17] [Server thread/INFO]: M310N_ joined the game
+[10:45:28] [Server thread/INFO]: M310N_ lost connection: Disconnected
+[10:45:28] [Server thread/INFO]: M310N_ left the game
+[10:46:14] [User Authenticator #6/INFO]: UUID of player M310N_ is 52688d30-5ac0-427f-a7a0-4b50aa55754a
+[10:46:14] [Server thread/INFO]: M310N_[/24.254.24.160:62217] logged in with entity id 10669 at (457.94487506238846, 67.0, 164.1644562131531)
+[10:46:14] [Server thread/INFO]: M310N_ joined the game
+[10:47:36] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.31164227524766375
+[10:47:36] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.7071967460051383
+[10:47:37] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.33006201827086556
+[10:47:37] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 0.8366578327841978
+[10:47:37] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 1.3438128716135793
+[10:47:37] [Server thread/WARN]: Horse (vehicle of captenbuffy) moved wrongly! 1.8512671402247634
+[10:48:29] [Server thread/INFO]: <dfrog3> 2 bed
+[10:51:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/12452, l='ServerLevel[world]', x=353.30, y=79.15, z=195.18]
+[10:54:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=455, y=80, z=169} fx{x=453, y=80, z=169}
+[10:57:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/14194, l='ServerLevel[world]', x=358.13, y=77.38, z=192.42]
+[10:59:39] [User Authenticator #7/INFO]: UUID of player NoviceGuardian is 34b2e3e9-29fb-4e62-a7a0-4f6abcb076de
+[10:59:39] [Server thread/INFO]: NoviceGuardian[/74.78.80.15:61224] logged in with entity id 14607 at (381.6791756662139, 78.0, 199.47655903659964)
+[10:59:39] [Server thread/INFO]: NoviceGuardian joined the game
+[11:16:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Granite'/15471, l='ServerLevel[world]', x=460.85, y=75.12, z=156.28]
+[11:18:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/16001, l='ServerLevel[world]', x=365.71, y=77.41, z=170.53]
+[11:27:54] [Server thread/INFO]: M310N_ has made the advancement [Not Today, Thank You]
+[11:33:44] [Server thread/INFO]: captenbuffy has made the advancement [Not Today, Thank You]
+[11:43:51] [Server thread/INFO]: Teleported M310N_ to 400.5, 78.0, 200.5
+[11:46:28] [Server thread/INFO]: NoviceGuardian fell from a high place
+[11:46:56] [Server thread/INFO]: Teleported NoviceGuardian to 400.5, 768.0, 200.5
+[11:47:05] [Server thread/INFO]: NoviceGuardian fell from a high place
+[11:47:29] [Server thread/INFO]: Teleported NoviceGuardian to 400.5, 78.0, 200.5
+[11:51:10] [Server thread/INFO]: dfrog3 lost connection: Disconnected
+[11:51:10] [Server thread/INFO]: dfrog3 left the game
+[11:55:41] [Server thread/INFO]: captenbuffy has made the advancement [A Seedy Place]
+[12:15:50] [Server thread/INFO]: Villager bfj['Villager'/128, l='ServerLevel[world]', x=518.52, y=66.92, z=172.36] died, message: 'Villager was slain by Zombie'
+[12:16:13] [Server thread/INFO]: <M310N_> e
+[12:18:07] [Server thread/INFO]: NoviceGuardian lost connection: Disconnected
+[12:18:07] [Server thread/INFO]: NoviceGuardian left the game
+[12:37:52] [Server thread/INFO]: captenbuffy lost connection: Disconnected
+[12:37:52] [Server thread/INFO]: captenbuffy left the game
+[12:42:09] [Server thread/INFO]: M310N_ lost connection: Disconnected
+[12:42:09] [Server thread/INFO]: M310N_ left the game
+[12:58:31] [User Authenticator #8/INFO]: UUID of player M310N_ is 52688d30-5ac0-427f-a7a0-4b50aa55754a
+[12:58:31] [Server thread/INFO]: M310N_[/24.254.24.160:63937] logged in with entity id 31314 at (458.2658158281126, 73.0, 157.3989029593097)
+[12:58:31] [Server thread/INFO]: M310N_ joined the game
+[13:51:31] [Server thread/INFO]: M310N_ has made the advancement [We Need to Go Deeper]
+[13:52:41] [Server thread/INFO]: M310N_ lost connection: Disconnected
+[13:52:41] [Server thread/INFO]: M310N_ left the game
+[15:34:40] [Server thread/INFO]: Stopping the server
+[15:34:40] [Server thread/INFO]: Stopping server
+[15:34:40] [Server thread/INFO]: Saving players
+[15:34:40] [Server thread/INFO]: Saving worlds
+[15:34:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:34:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:34:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:34:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:34:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:34:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:34:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:34:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:34:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
