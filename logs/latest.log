@@ -1,69 +1,18 @@
-[09:29:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:29:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:29:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:29:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:29:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:29:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:29:08] [main/INFO]: Reloading ResourceManager: Default
-[09:29:08] [Worker-Main-14/INFO]: Loaded 7 recipes
-[09:29:09] [Worker-Main-14/INFO]: Loaded 1137 advancements
-[09:29:10] [Server thread/INFO]: Starting minecraft server version 1.17
-[09:29:10] [Server thread/INFO]: Loading properties
-[09:29:10] [Server thread/INFO]: Default game type: SURVIVAL
-[09:29:10] [Server thread/INFO]: Generating keypair
-[09:29:10] [Server thread/INFO]: Starting Minecraft server on 192.168.10.100:25565
-[09:29:10] [Server thread/INFO]: Using default channel type
-[09:29:10] [Server thread/INFO]: Preparing level "world"
-[09:29:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:29:10] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[09:29:11] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[09:29:11] [Worker-Main-11/INFO]: Preparing spawn area: 6%
-[09:29:14] [Worker-Main-10/INFO]: Preparing spawn area: 20%
-[09:29:14] [Worker-Main-8/INFO]: Preparing spawn area: 20%
-[09:29:14] [Worker-Main-10/INFO]: Preparing spawn area: 20%
-[09:29:14] [Worker-Main-8/INFO]: Preparing spawn area: 20%
-[09:29:14] [Worker-Main-12/INFO]: Preparing spawn area: 48%
-[09:29:14] [Server thread/INFO]: Time elapsed: 3650 ms
-[09:29:14] [Server thread/INFO]: Done (3.778s)! For help, type "help"
-[09:29:26] [User Authenticator #1/INFO]: UUID of player dfrog3 is f5baa86a-1d1b-4f88-ada9-d806f91e16b0
-[09:29:26] [Server thread/INFO]: dfrog3[/192.168.10.100:61392] logged in with entity id 63 at (145.30000001192093, 68.0, 120.12912887555198)
-[09:29:26] [Server thread/INFO]: dfrog3 joined the game
-[09:29:29] [User Authenticator #2/INFO]: UUID of player NoviceGuardian is 34b2e3e9-29fb-4e62-a7a0-4f6abcb076de
-[09:29:29] [Server thread/INFO]: NoviceGuardian[/67.253.98.245:54599] logged in with entity id 247 at (152.5, 72.5625, 115.5)
-[09:29:29] [Server thread/INFO]: NoviceGuardian joined the game
-[09:44:09] [Server thread/INFO]: dfrog3 tried to swim in lava
-[10:01:21] [Server thread/INFO]: dfrog3 has made the advancement [Acquire Hardware]
-[10:01:29] [Server thread/INFO]: dfrog3 has made the advancement [Isn't It Iron Pick]
-[10:01:42] [Server thread/INFO]: NoviceGuardian has made the advancement [Acquire Hardware]
-[10:02:02] [Server thread/INFO]: NoviceGuardian has made the advancement [Isn't It Iron Pick]
-[10:03:53] [Server thread/INFO]: NoviceGuardian was slain by Zombie
-[10:07:40] [Server thread/INFO]: NoviceGuardian has made the advancement [Monster Hunter]
-[10:09:21] [Server thread/INFO]: NoviceGuardian has made the advancement [Not Today, Thank You]
-[10:10:48] [Server thread/INFO]: NoviceGuardian has made the advancement [Diamonds!]
-[10:27:44] [Server thread/INFO]: Teleported NoviceGuardian to 150.500000, 72.000000, 119.500000
-[10:43:02] [Server thread/INFO]: NoviceGuardian was slain by Spider
-[10:54:41] [Server thread/INFO]: NoviceGuardian was slain by Zombie
-[10:56:20] [Server thread/INFO]: NoviceGuardian was slain by Zombie
-[11:02:41] [Server thread/INFO]: dfrog3 has made the advancement [Diamonds!]
-[11:20:55] [Server thread/INFO]: dfrog3 lost connection: Disconnected
-[11:20:55] [Server thread/INFO]: dfrog3 left the game
-[11:21:00] [User Authenticator #3/INFO]: UUID of player dfrog3 is f5baa86a-1d1b-4f88-ada9-d806f91e16b0
-[11:21:00] [Server thread/INFO]: dfrog3[/192.168.10.100:61416] logged in with entity id 19261 at (157.31924394628916, 72.0, 121.08080036744079)
-[11:21:00] [Server thread/INFO]: dfrog3 joined the game
-[11:21:09] [Server thread/INFO]: NoviceGuardian lost connection: Disconnected
-[11:21:09] [Server thread/INFO]: NoviceGuardian left the game
-[11:21:15] [Server thread/INFO]: dfrog3 lost connection: Disconnected
-[11:21:15] [Server thread/INFO]: dfrog3 left the game
-[11:21:26] [Server thread/INFO]: Stopping the server
-[11:21:26] [Server thread/INFO]: Stopping server
-[11:21:26] [Server thread/INFO]: Saving players
-[11:21:26] [Server thread/INFO]: Saving worlds
-[11:21:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11:21:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:21:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11:21:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:21:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11:21:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:21:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:21:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:21:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:47] [Server thread/INFO]: dfrog3 has made the advancement [Not Today, Thank You]
+[00:01:00] [Server thread/INFO]: NoviceGuardian lost connection: Disconnected
+[00:01:00] [Server thread/INFO]: NoviceGuardian left the game
+[00:02:29] [Server thread/INFO]: dfrog3 lost connection: Disconnected
+[00:02:29] [Server thread/INFO]: dfrog3 left the game
+[00:02:36] [Server thread/INFO]: Stopping the server
+[00:02:36] [Server thread/INFO]: Stopping server
+[00:02:36] [Server thread/INFO]: Saving players
+[00:02:36] [Server thread/INFO]: Saving worlds
+[00:02:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:02:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:02:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
